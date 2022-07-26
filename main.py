@@ -4,7 +4,7 @@
 
 import logging
 
-inport aiogram
+import aiogram
 
 from aiogram import Bot, Dispatcher, executor, types
 

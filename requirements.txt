@@ -1,0 +1,6 @@
+logging
+
+aiogram
+
+requests
+
